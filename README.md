@@ -1,2 +1,2 @@
 # 1peachzzz.github.io
-my website
+theme: THEME-NAME
